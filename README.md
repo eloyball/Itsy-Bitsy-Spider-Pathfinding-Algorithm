@@ -1,0 +1,2 @@
+# Itsy-Bitsy-Spider-Pathfinding-Algorithm
+This projeect is focused on solving a problem based on the "Itsy-Bitsy Spider" maze, modeling it as a graph, and using a Depth-First Search (DFS) algorithm to solve it. A "Itsy-Bitsy Spider" maze consists of a three-dimensional maze where the spider enters on the bottom and has to find the exit on the top. The spider can move in six directions: East, North, West, South, Up and Down, as long as the walls of the maze allow it to do so.
